@@ -12,4 +12,4 @@
 
 ### Trigonometry functions
 
-<a href="https://en.wikipedia.org/wiki/Trigonometric_functions"><img src="data/circle_cos_sin.gif" alt="Circle trigonometry" /></a>
+[![Circle trigonometry](data/circle_cos_sin.gif)](https://en.wikipedia.org/wiki/Trigonometric_functions")
