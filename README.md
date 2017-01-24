@@ -13,3 +13,9 @@
 ### Trigonometry functions
 
 [![Circle trigonometry](data/circle_cos_sin.gif)](https://en.wikipedia.org/wiki/Trigonometric_functions)
+
+### Software
+
+**WebGL**
+
+* [headless-gl](https://github.com/stackgl/headless-gl) - windowless WebGL for node.js. Ideal for making artsy bots!
