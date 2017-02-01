@@ -6,10 +6,12 @@
 
 ## Audio
 
-...
+…
 
 ## Graphics
 
 ### Trigonometry functions
 
 [![Circle trigonometry](data/circle_cos_sin.gif)](https://en.wikipedia.org/wiki/Trigonometric_functions)
+
+[![Sin demo](data/math_sin.gif)](http://codepen.io/ladybenko/pen/JEEqow)
